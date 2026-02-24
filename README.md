@@ -1,7 +1,7 @@
 # Kitomi
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=800&lines=>_+$+ssh+kitomi8@42-antananarivo.local;>_+$+Initiating+system+protocols...;>_+$+Engage+in+Excessive+Analysis." alt="Terminal Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=800&lines=>_+$+ssh+rtoky-fa@42-antananarivo.mg;>_+$+Initiating+system+protocols...;>_+$+Engage+in+Excessive+Analysis." alt="Terminal Header" />
 
 </div>
 
@@ -13,28 +13,33 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-typedef struct {
+typedef struct
+{
     char *location;
     char *education;
     char *focus[4];
 } Core_System;
 
-typedef struct {
+typedef struct
+{
     char *hardware;
     char *creation[2];
     bool looking_at_stars;
 } Sub_Routines;
 
-int main(void) {
-    Core_System sys = {
+int main(void)
+{
+    Core_System sys =
+    {
         .location = "Antananarivo, MG",
         .education = "42 Student",
         .focus = {"C", "C++", "Networking Architecture", "Hardware Diagnostics"}
     };
 
-    Sub_Routines side_quests = {
+    Sub_Routines side_quests =
+    {
         .hardware = "Dell G3 (i5-10300H) & Pixel 6",
-        .creation = {"FL Studio Production", "Acrylic Painting"},
+        .creation = {"FL Studio Production", "Astrophotography"},
         .looking_at_stars = true // Haikintana Observatory
     };
 
