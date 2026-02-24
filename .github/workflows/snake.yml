@@ -2,16 +2,14 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Exécute l'action toutes les 12 heures
     - cron: "0 */12 * * *"
   workflow_dispatch:
-    # Permet de lancer le script manuellement depuis l'onglet Actions
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Autorisation requise pour créer la branche "output"
+      contents: write
 
     steps:
       - uses: actions/checkout@v3
