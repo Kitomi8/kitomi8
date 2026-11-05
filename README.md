@@ -1,18 +1,19 @@
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=800&lines=>_+$+ssh+rtoky-fa@42-antananarivo.mg;>_+$+Initiating+system+protocols...;>_+$+Engage+in+Excessive+Analysis." alt="Terminal Header" />
+
+# `> $ ssh rtoky-fa@42-antananarivo`
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+%40+42;AI+%26+Machine+Learning+Researcher;Low-Level+%26+System+Developer" alt="Typing SVG" />
+
+<p align="center">
+  <a href="https://kitomi8.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-kitomi8.github.io-black?style=flat-square&logo=google-chrome&logoColor=22c55e" /></a>
+  <a href="https://linkedin.com/in/toky-fanantenana-rabarison-825397219"><img src="https://img.shields.io/badge/LinkedIn-Toky%20Fanantenana-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+</p>
 
 </div>
 
-<br>
+---
 
-<div align="center">
+### stack Technique & Outils
 
-<a href="https://www.google.com/search?q=https://github.com/kitomi8">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dkitomi8%26show_icons%3Dtrue%26theme%3Dvision-friendly-dark%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00FF00%26icon_color%3D00FF00%26text_color%3DC9D1D9" alt="GitHub Stats" />
-</a>
-<a href="https://www.google.com/search?q=https://github.com/kitomi8">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dkitomi8%26layout%3Dcompact%26theme%3Dvision-friendly-dark%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00FF00%26text_color%3DC9D1D9" alt="Top Languages" />
-</a>
-
-</div>
+```bash
+[system@workspace ~]$ neofetch --skills
